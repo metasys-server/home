@@ -15,7 +15,7 @@ This is a listing of the repositories in this organization:
 
 ## Sample applications and frameworks
 
-We have examples that utitlize `curl` and JavaScript with C# examples on the way.
+We have examples that utitlize `curl`, JavaScript and C#.
 
 ### Node (JavaScript)
 
@@ -27,3 +27,7 @@ We have examples that utitlize `curl` and JavaScript with C# examples on the way
 We have a few sample scripts that utilize curl to access the APIs
 
 * [curl-scripts](https://github.com/metasys-server/curl-scripts) - Examples of how to use curl to login and call all major endpoints.
+
+### C#
+
+* [historian](https://github.com/metasys-server/historian) - A sample solution for keeping a clone of historical data in a separate Sql Server database. Can be adapted as needed for custom solutions. 
