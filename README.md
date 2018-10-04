@@ -1,10 +1,8 @@
-![Metasys Server Logo][metasys-logo]
+<img src="images/metasys-logo.png" alt="Metasys® Logo" width="216" />
 
 # home
 
 The home repository is the starting point for people to learn about *Metasys*® Server APIs
-
-[metasys-logo]: images/metasys-logo.png
 
 This is a listing of the repositories in this organization:
 
