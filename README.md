@@ -14,12 +14,7 @@ This is a listing of the repositories in this organization:
 
 ## Sample applications and frameworks
 
-We have examples that utitlize `curl`, JavaScript and C#.
-
-### Node (JavaScript)
-
-* [nodekit](https://github.com/metasys-server/nodekit) - A light weight framework for accessing server APIs
-* [object](https://github.com/metasys-server/objectjs) - A small application that shows how to use `nodekit` to fetch a single object from the server. Useful for looking up the identifier of an object.
+We have examples that utitlize `curl` and C#.
 
 ### Curl
 
